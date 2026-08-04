@@ -1,0 +1,112 @@
+- generic [ref=e3]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#VPContent"
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Ross Hayes - Projects" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Ross Hayes - Projects
+          - generic [ref=e8]:
+            - navigation "Main Navigation" [ref=e9]:
+              - generic [ref=e10]: Main Navigation
+              - link "Home" [ref=e11] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e12]: Home
+              - link "Projects" [ref=e13] [cursor=pointer]:
+                - /url: /projects/
+                - generic [ref=e14]: Projects
+              - link "Accessibility" [ref=e15] [cursor=pointer]:
+                - /url: /accessibility
+                - generic [ref=e16]: Accessibility
+            - button "extra navigation" [ref=e18] [cursor=pointer]
+  - button "On this page" [ref=e23] [cursor=pointer]: On this page
+  - generic [ref=e29]:
+    - main [ref=e30]:
+      - generic [ref=e32]:
+        - heading "Accessibility Permalink to \"Accessibility\"" [level=1] [ref=e33]:
+          - text: Accessibility
+          - link "Permalink to \"Accessibility\"" [ref=e34] [cursor=pointer]:
+            - /url: "#accessibility"
+            - text: "#"
+        - paragraph [ref=e35]: Accessibility works best when it's built into the process, not tacked on before launch. At Pixelfridge, I built a WCAG 2.2 audit spreadsheet that's now part of the agency's standard go-live checklist.
+        - heading "The audit Permalink to \"The audit\"" [level=2] [ref=e36]:
+          - text: The audit
+          - link "Permalink to \"The audit\"" [ref=e37] [cursor=pointer]:
+            - /url: "#the-audit"
+            - text: "#"
+        - paragraph [ref=e38]: "It covers all three conformance levels, A, AA, and AAA, plus a Best Practice category for things outside the formal spec. Eight sections span the full scope: Content, Design, Development, and five QA disciplines covering keyboard navigation, forms, colour contrast, screen reader compatibility, and media."
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: Screenshot needed
+          - paragraph [ref=e41]:
+            - strong [ref=e42]: Dashboard
+            - text: "- the overview tab with conformance summary broken down by WCAG level and section scores"
+        - paragraph [ref=e43]: Each criterion is tagged by discipline, so a content editor sees what's theirs and a developer isn't wading through design criteria.
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: Screenshot needed
+          - paragraph [ref=e46]:
+            - strong [ref=e47]: QA sheet
+            - text: "- a checklist section showing criteria tagged by role with pass/fail/N/A status columns"
+        - paragraph [ref=e48]: Failures auto-populate a shared issues log with the WCAG reference, a description, the responsible owner, and notes. A dashboard summarises conformance by level so you can see at a glance where a site stands.
+        - generic [ref=e49]:
+          - paragraph [ref=e50]: Screenshot needed
+          - paragraph [ref=e51]:
+            - strong [ref=e52]: Issues log
+            - text: "- auto-populated from the checklist sheets, showing WCAG criterion, description, owner, and status"
+        - heading "Testing tools Permalink to \"Testing tools\"" [level=2] [ref=e53]:
+          - text: Testing tools
+          - link "Permalink to \"Testing tools\"" [ref=e54] [cursor=pointer]:
+            - /url: "#testing-tools"
+            - text: "#"
+        - paragraph [ref=e55]: "Across my career I've used a range of tools depending on what needs testing:"
+        - list [ref=e56]:
+          - listitem [ref=e57]:
+            - strong [ref=e58]: SortSite / Powermapper
+            - text: "- site-wide automated scanning across WCAG levels, good for catching issues at scale before manual review"
+          - listitem [ref=e59]:
+            - strong [ref=e60]: WAVE
+            - text: "- page-level visual overlay highlighting contrast failures, missing labels, and heading structure"
+          - listitem [ref=e61]:
+            - strong [ref=e62]: Axe / Arc
+            - text: "- browser-based auditing integrated into dev workflow, useful for catching issues during build rather than at QA"
+          - listitem [ref=e63]:
+            - strong [ref=e64]: Lighthouse
+            - text: "- quick automated pass covering accessibility alongside performance and best practices"
+          - listitem [ref=e65]:
+            - strong [ref=e66]: W3C HTML Validator
+            - text: "- structural validation to catch semantic errors that affect assistive technology"
+          - listitem [ref=e67]:
+            - strong [ref=e68]: VoiceOver
+            - text: "- primary screen reader for manual testing on macOS and iOS"
+          - listitem [ref=e69]:
+            - strong [ref=e70]: NVDA
+            - text: "- Windows screen reader for cross-platform screen reader coverage"
+          - listitem [ref=e71]:
+            - strong [ref=e72]: WebAIM Contrast Checker
+            - text: "- manual contrast ratio checking for text, UI components, and focus indicators"
+        - paragraph [ref=e73]: No single tool catches everything. Automated scanners typically surface around 30-40% of real issues; the rest requires manual keyboard and screen reader testing.
+        - heading "Why it matters Permalink to \"Why it matters\"" [level=2] [ref=e74]:
+          - text: Why it matters
+          - link "Permalink to \"Why it matters\"" [ref=e75] [cursor=pointer]:
+            - /url: "#why-it-matters"
+            - text: "#"
+        - paragraph [ref=e76]: Most of the clients I work with are charities, housing associations, and public sector organisations that serve people who rely on assistive technology. For them, an inaccessible site isn't inconvenient; it's a blocker. Treating accessibility as a gate in the go-live process means it gets the same attention as visual QA or cross-browser testing.
+    - contentinfo
+  - contentinfo [ref=e77]:
+    - generic [ref=e78]:
+      - paragraph [ref=e79]:
+        - text: Selected work by Ross Hayes. ·
+        - link "contact@rosshayes.dev" [ref=e80] [cursor=pointer]:
+          - /url: mailto:contact@rosshayes.dev
+        - text: ·
+        - link "LinkedIn" [ref=e81] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/ross-hayes-a3589988/
+      - paragraph [ref=e82]:
+        - text: Built with
+        - link "VitePress" [ref=e83] [cursor=pointer]:
+          - /url: https://vitepress.dev
+        - text: · Deployed on
+        - link "Vercel" [ref=e84] [cursor=pointer]:
+          - /url: https://vercel.com
+        - text: · WCAG 2.2 AA compliant

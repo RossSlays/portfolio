@@ -1,0 +1,254 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "Clink Admin" [level=1] [ref=e3]:
+      - text: Clink
+      - generic [ref=e4]: Admin
+    - generic [ref=e5]:
+      - generic [ref=e6]: 6 guests
+      - generic [ref=e7]: Live
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - button "Event" [ref=e11] [cursor=pointer]
+      - button "Settings" [ref=e12] [cursor=pointer]
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: Blind Tasting
+          - paragraph [ref=e18]: Hides gin names from guests until they submit their review.
+        - generic [ref=e19] [cursor=pointer]:
+          - checkbox
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - paragraph [ref=e24]: Quiz — Answers Revealed
+          - paragraph [ref=e25]: Which of these is NOT a botanical in Lyng Norwegian Botanical Gin?
+          - paragraph [ref=e26]: 5 of 6 guests voted
+          - paragraph [ref=e29]: "Answer: Cascade Hops"
+        - button "End Quiz" [ref=e31] [cursor=pointer]
+      - paragraph [ref=e32]: Current Course
+      - generic [ref=e33]:
+        - generic [ref=e34]: Pending
+        - heading "Deux Frères Swiss Gin" [level=2] [ref=e36]
+        - paragraph [ref=e37]: Switzerland · 2 of 5
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - generic [ref=e40]: Tonic
+            - text: Mediterranean Tonic
+          - generic [ref=e41]:
+            - generic [ref=e42]: Garnish
+            - text: Orange Slices
+        - generic [ref=e43]:
+          - button "Mark as Served" [ref=e44] [cursor=pointer]
+          - button "Mark as Complete" [disabled] [ref=e45]
+      - generic [ref=e46]:
+        - paragraph [ref=e47]: All Courses
+        - button "+ Add Gin" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - generic "Drag to reorder" [ref=e50]: ⠿
+        - generic [ref=e51]: "1"
+        - generic [ref=e52]:
+          - heading "Lyng Norwegian Botanical Gin" [level=4] [ref=e53]
+          - paragraph [ref=e54]: Norway
+          - paragraph [ref=e55]: Tonic Premium Indian · Garnish Apple Slices & Rhubarb
+        - generic [ref=e56]:
+          - generic [ref=e57]: Complete
+          - generic [ref=e59]: 7.0/10
+          - generic [ref=e60]: 4 reviews
+        - generic [ref=e61]:
+          - button "Edit" [ref=e62] [cursor=pointer]
+          - button "Delete" [ref=e63] [cursor=pointer]
+          - button "Quiz" [disabled] [ref=e64]
+          - button "ABV" [ref=e65] [cursor=pointer]
+      - generic [ref=e66]:
+        - generic "Drag to reorder" [ref=e67]: ⠿
+        - generic [ref=e68]: "2"
+        - generic [ref=e69]:
+          - heading "Deux Frères Swiss Gin" [level=4] [ref=e70]
+          - paragraph [ref=e71]: Switzerland
+          - paragraph [ref=e72]: Tonic Mediterranean Tonic · Garnish Orange Slices
+        - generic [ref=e73]:
+          - generic [ref=e74]: Pending
+          - generic [ref=e76]: 7.8/10
+          - generic [ref=e77]: 5 reviews
+        - generic [ref=e78]:
+          - button "Edit" [ref=e79] [cursor=pointer]
+          - button "Delete" [disabled] [ref=e80]
+          - button "Quiz" [disabled] [ref=e81]
+          - button "ABV" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - generic "Drag to reorder" [ref=e84]: ⠿
+        - generic [ref=e85]: "3"
+        - generic [ref=e86]:
+          - heading "Cold Waters Dry Gin" [level=4] [ref=e87]
+          - paragraph [ref=e88]: House Distilled, Isle of Skye, Scotland
+          - paragraph [ref=e89]: Tonic Classic Indian Tonic · Garnish Orange Slices & Pink Pepper
+        - generic [ref=e90]:
+          - generic [ref=e91]: Pending
+          - generic [ref=e93]: 8.2/10
+          - generic [ref=e94]: 5 reviews
+        - generic [ref=e95]:
+          - button "Edit" [ref=e96] [cursor=pointer]
+          - button "Delete" [ref=e97] [cursor=pointer]
+          - button "Quiz" [ref=e98]
+          - button "ABV" [ref=e99] [cursor=pointer]
+      - generic [ref=e100]:
+        - generic "Drag to reorder" [ref=e101]: ⠿
+        - generic [ref=e102]: "4"
+        - generic [ref=e103]:
+          - heading "Stump Coastal Forest Gin" [level=4] [ref=e104]
+          - paragraph [ref=e105]: Victoria, Canada
+          - paragraph [ref=e106]:
+            - text: Tonic Light Citrus Tonic · Garnish Lime & Fresh Herbs
+            - text: ⬦ Palate cleanser before this course
+        - generic [ref=e107]:
+          - generic [ref=e108]: Pending
+          - generic [ref=e110]: 8.0/10
+          - generic [ref=e111]: 5 reviews
+        - generic [ref=e112]:
+          - button "Edit" [ref=e113] [cursor=pointer]
+          - button "Delete" [ref=e114] [cursor=pointer]
+          - button "Quiz" [disabled] [ref=e115]
+          - button "ABV" [ref=e116] [cursor=pointer]
+      - generic [ref=e117]:
+        - generic "Drag to reorder" [ref=e118]: ⠿
+        - generic [ref=e119]: "5"
+        - generic [ref=e120]:
+          - heading "Empress 1908 Gin" [level=4] [ref=e121]
+          - paragraph [ref=e122]: Victoria, Canada
+          - paragraph [ref=e123]: Tonic Elderflower Tonic · Garnish Cucumber & Mint
+        - generic [ref=e124]:
+          - generic [ref=e125]: Pending
+          - generic [ref=e127]: 6.4/10
+          - generic [ref=e128]: 5 reviews
+        - generic [ref=e129]:
+          - button "Edit" [ref=e130] [cursor=pointer]
+          - button "Delete" [ref=e131] [cursor=pointer]
+          - button "Quiz" [disabled] [ref=e132]
+          - button "ABV" [ref=e133] [cursor=pointer]
+      - paragraph [ref=e134]: Reviews
+      - generic [ref=e135]:
+        - heading "Lyng Norwegian Botanical Gin 7.0/10" [level=4] [ref=e136]:
+          - text: Lyng Norwegian Botanical Gin
+          - generic [ref=e137]: 7.0/10
+        - generic [ref=e138]:
+          - generic [ref=e139]: "8"
+          - generic [ref=e141]: Alice
+        - generic [ref=e142]:
+          - generic [ref=e143]: "7"
+          - generic [ref=e145]: Ben
+        - generic [ref=e146]:
+          - generic [ref=e147]: "6"
+          - generic [ref=e149]: Clara
+        - generic [ref=e150]:
+          - generic [ref=e151]: "7"
+          - generic [ref=e153]: Dan
+      - generic [ref=e154]:
+        - heading "Deux Frères Swiss Gin 7.8/10" [level=4] [ref=e155]:
+          - text: Deux Frères Swiss Gin
+          - generic [ref=e156]: 7.8/10
+        - generic [ref=e157]:
+          - generic [ref=e158]: "8"
+          - generic [ref=e160]: Ross
+        - generic [ref=e161]:
+          - generic [ref=e162]: "7"
+          - generic [ref=e164]: Alice
+        - generic [ref=e165]:
+          - generic [ref=e166]: "8"
+          - generic [ref=e168]: Ben
+        - generic [ref=e169]:
+          - generic [ref=e170]: "7"
+          - generic [ref=e172]: Clara
+        - generic [ref=e173]:
+          - generic [ref=e174]: "9"
+          - generic [ref=e176]: Dan
+      - generic [ref=e177]:
+        - heading "Cold Waters Dry Gin 8.2/10" [level=4] [ref=e178]:
+          - text: Cold Waters Dry Gin
+          - generic [ref=e179]: 8.2/10
+        - generic [ref=e180]:
+          - generic [ref=e181]: "7"
+          - generic [ref=e183]: Ross
+        - generic [ref=e184]:
+          - generic [ref=e185]: "9"
+          - generic [ref=e187]: Alice
+        - generic [ref=e188]:
+          - generic [ref=e189]: "9"
+          - generic [ref=e191]: Ben
+        - generic [ref=e192]:
+          - generic [ref=e193]: "8"
+          - generic [ref=e195]: Clara
+        - generic [ref=e196]:
+          - generic [ref=e197]: "8"
+          - generic [ref=e199]: Dan
+      - generic [ref=e200]:
+        - heading "Stump Coastal Forest Gin 8.0/10" [level=4] [ref=e201]:
+          - text: Stump Coastal Forest Gin
+          - generic [ref=e202]: 8.0/10
+        - generic [ref=e203]:
+          - generic [ref=e204]: "9"
+          - generic [ref=e206]: Ross
+        - generic [ref=e207]:
+          - generic [ref=e208]: "8"
+          - generic [ref=e210]: Alice
+        - generic [ref=e211]:
+          - generic [ref=e212]: "7"
+          - generic [ref=e214]: Ben
+        - generic [ref=e215]:
+          - generic [ref=e216]: "9"
+          - generic [ref=e218]: Clara
+        - generic [ref=e219]:
+          - generic [ref=e220]: "7"
+          - generic [ref=e222]: Dan
+      - generic [ref=e223]:
+        - heading "Empress 1908 Gin 6.4/10" [level=4] [ref=e224]:
+          - text: Empress 1908 Gin
+          - generic [ref=e225]: 6.4/10
+        - generic [ref=e226]:
+          - generic [ref=e227]: "6"
+          - generic [ref=e229]: Ross
+        - generic [ref=e230]:
+          - generic [ref=e231]: "6"
+          - generic [ref=e233]: Alice
+        - generic [ref=e234]:
+          - generic [ref=e235]: "8"
+          - generic [ref=e237]: Ben
+        - generic [ref=e238]:
+          - generic [ref=e239]: "6"
+          - generic [ref=e241]: Clara
+        - generic [ref=e242]:
+          - generic [ref=e243]: "6"
+          - generic [ref=e245]: Dan
+      - paragraph [ref=e246]: Guests (6)
+      - generic [ref=e247]:
+        - generic [ref=e248]: Ross
+        - generic [ref=e249]: Ross
+        - generic [ref=e250]: Alice
+        - generic [ref=e251]: Ben
+        - generic [ref=e252]: Clara
+        - generic [ref=e253]: Dan
+      - generic [ref=e254]:
+        - paragraph [ref=e255]: Reset will clear all guests and reviews and restart from Course 1. Use at the end of the night or for a dry run.
+        - button "Reset Event" [ref=e256] [cursor=pointer]
+  - generic [ref=e257]:
+    - paragraph [ref=e258]: Push Message
+    - generic [ref=e259]:
+      - generic [ref=e261]:
+        - button "Both" [ref=e262] [cursor=pointer]
+        - button "Guests" [ref=e263] [cursor=pointer]
+        - button "Display" [ref=e264] [cursor=pointer]
+      - generic [ref=e265]:
+        - textbox "e.g. Please hold your glasses up…" [ref=e266]
+        - button "Push" [ref=e267] [cursor=pointer]
+  - generic [ref=e268]:
+    - paragraph [ref=e269]: Sonos · Now Playing on Display
+    - generic [ref=e270]:
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - paragraph [ref=e273]: Now Playing
+          - paragraph [ref=e274]: Nothing playing
+        - generic [ref=e275]:
+          - paragraph [ref=e276]: Sonos IP
+          - paragraph [ref=e277]: 192.168.0.201
+      - generic [ref=e278]:
+        - textbox "e.g. 192.168.1.50" [ref=e279]
+        - button "Set IP" [ref=e280] [cursor=pointer]
+        - button "Scan" [ref=e281] [cursor=pointer]

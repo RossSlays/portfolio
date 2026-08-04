@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]: Course 2 of 5
+    - generic [ref=e17]: 🥂
+    - generic [ref=e18]:
+      - heading "Preparing your pour…" [level=2] [ref=e19]
+      - paragraph [ref=e20]: Your hosts will serve you shortly.
+  - contentinfo [ref=e21]: TLDBAR · 25 Tyler Street, Greenwich
+  - generic [ref=e22]:
+    - paragraph [ref=e23]: ⚗ Botanicals Quiz
+    - paragraph [ref=e24]: Which of these is NOT a botanical in Lyng Norwegian Botanical Gin?
+    - generic [ref=e25]:
+      - button "Horseshoe Vetch" [disabled] [ref=e26]
+      - button "Cascade Hops" [disabled] [ref=e27]
+      - button "Juniper" [disabled] [ref=e28]
+      - button "Watercress" [disabled] [ref=e29]
+    - paragraph
+    - paragraph [ref=e30]: Not quite — it was Cascade Hops

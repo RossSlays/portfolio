@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]: Greenwich
+    - heading "🍷 Wine Taster" [level=1] [ref=e4]
+  - img "QR code for http://10.29.245.110:3000" [ref=e6]
+  - paragraph [ref=e7]:
+    - text: Scan to join ·
+    - code [ref=e8]: http://10.29.245.110:3000
+  - link "Admin panel →" [ref=e9] [cursor=pointer]:
+    - /url: /admin.html

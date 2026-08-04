@@ -1,0 +1,92 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: Greenwich
+        - generic [ref=e6]: Wine Taster
+      - img "Scan to join" [ref=e14]
+    - generic [ref=e15]:
+      - generic:
+        - generic:
+          - generic: 🍷
+          - heading "Wine Taster" [level=1]
+          - paragraph: The evening begins shortly
+        - generic:
+          - img "Scan to join"
+          - paragraph: Scan to join
+          - paragraph: Brought to you by TLDBAR · 25 Tyler Street, Greenwich
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]: Coming Up Next
+          - heading "Deux Frères Swiss Gin" [level=2] [ref=e19]
+          - generic [ref=e20]: Switzerland
+        - generic [ref=e21]:
+          - generic [ref=e22]: Live Rankings
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25]: "1"
+              - generic [ref=e26]:
+                - generic [ref=e27]: Lyng Norwegian Botanical Gin
+                - generic [ref=e28]: Norway
+              - generic [ref=e31]:
+                - generic [ref=e32]: 7.0/10
+                - generic [ref=e33]: 4 reviews
+            - generic [ref=e34]:
+              - generic [ref=e35]: "1"
+              - generic [ref=e36]:
+                - generic [ref=e37]: Deux Frères Swiss Gin
+                - generic [ref=e38]: Switzerland
+              - generic [ref=e42]:
+                - text: 7.8/10
+                - text: tasting
+                - text: now
+            - generic [ref=e43]:
+              - generic [ref=e44]: ·
+              - generic [ref=e45]:
+                - generic [ref=e46]: Cold Waters Dry Gin
+                - generic [ref=e47]: House Distilled, Isle of Skye, Scotland
+              - generic [ref=e50]:
+                - generic [ref=e51]: 8.2/10
+                - generic [ref=e52]: 5 reviews
+            - generic [ref=e53]:
+              - generic [ref=e54]: ·
+              - generic [ref=e55]:
+                - generic [ref=e56]: Stump Coastal Forest Gin
+                - generic [ref=e57]: Victoria, Canada
+              - generic [ref=e60]:
+                - generic [ref=e61]: 8.0/10
+                - generic [ref=e62]: 5 reviews
+            - generic [ref=e63]:
+              - generic [ref=e64]: ·
+              - generic [ref=e65]:
+                - generic [ref=e66]: Empress 1908 Gin
+                - generic [ref=e67]: Victoria, Canada
+              - generic [ref=e70]:
+                - generic [ref=e71]: 6.4/10
+                - generic [ref=e72]: 5 reviews
+          - generic [ref=e74]:
+            - generic [ref=e75]: Reviews submitted
+            - generic [ref=e76]: 5 of 6
+      - generic:
+        - generic:
+          - generic: All Courses Complete
+          - heading "Tonight's Rankings" [level=2]
+        - generic:
+          - generic: Best of the Night
+  - generic [ref=e83]:
+    - paragraph [ref=e84]: ⚗ Botanicals Quiz
+    - paragraph [ref=e85]: Which of these is NOT a botanical in Lyng Norwegian Botanical Gin?
+    - generic [ref=e86]:
+      - generic [ref=e87]:
+        - generic [ref=e88]: Horseshoe Vetch
+        - generic [ref=e91]: 1 vote · 20%
+      - generic [ref=e92]:
+        - generic [ref=e93]: Cascade Hops
+        - generic [ref=e96]: 1 vote · 20%
+      - generic [ref=e97]:
+        - generic [ref=e98]: Juniper
+        - generic [ref=e101]: 3 votes · 60%
+      - generic [ref=e102]:
+        - generic [ref=e103]: Watercress
+        - generic [ref=e105]: 0 votes · 0%
+    - paragraph [ref=e106]: "The answer was: Cascade Hops"

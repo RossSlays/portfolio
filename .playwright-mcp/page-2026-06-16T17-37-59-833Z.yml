@@ -1,0 +1,11 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: Greenwich
+      - heading "Wine Taster" [level=1] [ref=e7]
+      - generic [ref=e9]: 🍷
+      - paragraph [ref=e10]: Enter your name to join tonight's tasting experience.
+    - generic [ref=e11]:
+      - textbox "Your name" [ref=e12]
+      - button "Join the Tasting" [ref=e13] [cursor=pointer]
+  - contentinfo [ref=e14]: TLDBAR · 25 Tyler Street, Greenwich

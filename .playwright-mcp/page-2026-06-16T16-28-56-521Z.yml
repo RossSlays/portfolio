@@ -1,0 +1,159 @@
+- generic [ref=e3]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#VPContent"
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Ross Hayes - Projects" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Ross Hayes - Projects
+          - generic [ref=e8]:
+            - navigation "Main Navigation" [ref=e9]:
+              - generic [ref=e10]: Main Navigation
+              - link "Home" [ref=e11] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e12]: Home
+              - link "Projects" [ref=e13] [cursor=pointer]:
+                - /url: /projects/
+                - generic [ref=e14]: Projects
+              - link "Accessibility" [ref=e15] [cursor=pointer]:
+                - /url: /accessibility
+                - generic [ref=e16]: Accessibility
+            - button "extra navigation" [ref=e18] [cursor=pointer]
+  - generic [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - heading "Ross Hayes Things I've Built" [level=1] [ref=e25]:
+          - generic [ref=e26]: Ross Hayes
+          - generic [ref=e27]: Things I've Built
+        - paragraph [ref=e28]: I've been building for the web since 2015, long before AI entered the picture. I combine bespoke code, deep CMS know-how, and an obsession with accessibility to build digital experiences that feel personal and function flawlessly.
+        - generic [ref=e29]:
+          - link "View Projects" [ref=e31] [cursor=pointer]:
+            - /url: /projects/
+          - link "Get in Touch" [ref=e33] [cursor=pointer]:
+            - /url: mailto:contact@rosshayes.dev
+      - img "Ross Hayes" [ref=e37]
+    - generic [ref=e40]:
+      - generic [ref=e42]:
+        - link "Heritage Funding Directory → A filterable database connecting UK heritage projects with funding opportunities, built on a custom WordPress MVC architecture. Full Build Third-party Integration" [ref=e43] [cursor=pointer]:
+          - /url: /projects/heritage-funding-directory
+          - heading "Heritage Funding Directory →" [level=2] [ref=e44]:
+            - text: Heritage Funding Directory
+            - generic [ref=e45]: →
+          - paragraph [ref=e46]: A filterable database connecting UK heritage projects with funding opportunities, built on a custom WordPress MVC architecture.
+          - generic [ref=e47]:
+            - generic [ref=e48]: Full Build
+            - generic [ref=e49]: Third-party Integration
+        - link "Thalamos - Pricing Calculator → Interactive React calculator for NHS departments, generating branded PDF quotes and syncing data to Zoho CRM. Front-End Development Third-party Integration" [ref=e50] [cursor=pointer]:
+          - /url: /projects/thalamos
+          - heading "Thalamos - Pricing Calculator →" [level=2] [ref=e51]:
+            - text: Thalamos - Pricing Calculator
+            - generic [ref=e52]: →
+          - paragraph [ref=e53]: Interactive React calculator for NHS departments, generating branded PDF quotes and syncing data to Zoho CRM.
+          - generic [ref=e54]:
+            - generic [ref=e55]: Front-End Development
+            - generic [ref=e56]: Third-party Integration
+        - link "Wilde Lodge - Calendar System → Real-time availability calendar with custom middleware to handle Clock PMS+ API rate limits via async queuing and caching. Full Build Third-party Integration" [ref=e57] [cursor=pointer]:
+          - /url: /projects/wilde-lodge
+          - heading "Wilde Lodge - Calendar System →" [level=2] [ref=e58]:
+            - text: Wilde Lodge - Calendar System
+            - generic [ref=e59]: →
+          - paragraph [ref=e60]: Real-time availability calendar with custom middleware to handle Clock PMS+ API rate limits via async queuing and caching.
+          - generic [ref=e61]:
+            - generic [ref=e62]: Full Build
+            - generic [ref=e63]: Third-party Integration
+        - link "Angostura Rums → Brand-led WordPress theme with GSAP scroll animations, a custom cocktail carousel, and a modular component architecture. Full Build Front-End Development" [ref=e64] [cursor=pointer]:
+          - /url: /projects/angostura-rums
+          - heading "Angostura Rums →" [level=2] [ref=e65]:
+            - text: Angostura Rums
+            - generic [ref=e66]: →
+          - paragraph [ref=e67]: Brand-led WordPress theme with GSAP scroll animations, a custom cocktail carousel, and a modular component architecture.
+          - generic [ref=e68]:
+            - generic [ref=e69]: Full Build
+            - generic [ref=e70]: Front-End Development
+        - link "Clink → A real-time multiplayer gin tasting app with live scoring, botanical quizzes, an ABV guessing game, and a TV display mode. Built for fun, runs on a local network. Full Build" [ref=e71] [cursor=pointer]:
+          - /url: /projects/clink
+          - heading "Clink →" [level=2] [ref=e72]:
+            - text: Clink
+            - generic [ref=e73]: →
+          - paragraph [ref=e74]: A real-time multiplayer gin tasting app with live scoring, botanical quizzes, an ABV guessing game, and a TV display mode. Built for fun, runs on a local network.
+          - generic [ref=e76]: Full Build
+        - link "Bank Workers Charity → A donation widget and JavaScript-driven flow connecting a preset-amount CTA to a Gravity Forms and Stripe-powered donation form, with full editor control over amounts, imagery, and copy. Front-End Development Third-party Integration" [ref=e77] [cursor=pointer]:
+          - /url: /projects/bank-workers-charity
+          - heading "Bank Workers Charity →" [level=2] [ref=e78]:
+            - text: Bank Workers Charity
+            - generic [ref=e79]: →
+          - paragraph [ref=e80]: A donation widget and JavaScript-driven flow connecting a preset-amount CTA to a Gravity Forms and Stripe-powered donation form, with full editor control over amounts, imagery, and copy.
+          - generic [ref=e81]:
+            - generic [ref=e82]: Front-End Development
+            - generic [ref=e83]: Third-party Integration
+      - generic [ref=e84]:
+        - heading "Technologies & Standards" [level=2] [ref=e85]
+        - generic [ref=e86]:
+          - generic [ref=e87]: WordPress
+          - generic [ref=e88]: PHP
+          - generic [ref=e89]: React
+          - generic [ref=e90]: JavaScript
+          - generic [ref=e91]: Tailwind CSS
+          - generic [ref=e92]: GSAP
+          - generic [ref=e93]: MySQL
+          - generic [ref=e94]: REST APIs
+          - generic [ref=e95]: WCAG 2.2
+      - generic [ref=e96]:
+        - heading "Career" [level=2] [ref=e97]
+        - paragraph [ref=e98]: "A decade in agencies. Four roles. One consistent thread: building things that work for everyone."
+        - generic [ref=e99]:
+          - generic [ref=e100]:
+            - generic [ref=e101]: "2015"
+            - generic [ref=e102]:
+              - generic [ref=e103]: Athena Web Designs, Cirencester, Gloucestershire
+              - link "athenawebdesigns.co.uk" [ref=e104] [cursor=pointer]:
+                - /url: https://www.athenawebdesigns.co.uk/
+              - paragraph [ref=e105]: Started my career building WordPress sites, learning the fundamentals of custom theme development, client work, and shipping real products to real users.
+          - generic [ref=e106]:
+            - generic [ref=e107]: "2017"
+            - generic [ref=e108]:
+              - generic [ref=e109]: Lightflows Agency, Guildford, Surrey
+              - link "lightflows.co.uk" [ref=e110] [cursor=pointer]:
+                - /url: https://www.lightflows.co.uk/
+              - paragraph [ref=e111]: Joined an award-winning agency and led development on a large housing association account. Working on a platform used by thousands of residents brought accessibility into sharp focus and became a defining thread in how I approach every build.
+          - generic [ref=e112]:
+            - generic [ref=e113]: "2020"
+            - generic [ref=e114]:
+              - generic [ref=e115]: Rubber Duckiee, Southwark, London
+              - link "rubberduckiee.com" [ref=e116] [cursor=pointer]:
+                - /url: https://rubberduckiee.com/
+              - paragraph [ref=e117]: Stepped up to lead developer at a digital agency within a wider comms group. Working with local governments, government departments, and housing associations deepened my commitment to WCAG compliance and inclusive design as a baseline, not an afterthought.
+          - generic [ref=e118]:
+            - generic [ref=e119]: "2024"
+            - generic [ref=e120]:
+              - generic [ref=e121]: Pixelfridge, Southwark, London
+              - link "pixelfridge.com" [ref=e122] [cursor=pointer]:
+                - /url: https://www.pixelfridge.com/
+              - paragraph [ref=e123]: Building pixel-perfect sites for charities and purpose-driven organisations on a Laravel-based WordPress foundation. Work spans everything from full site builds and ongoing maintenance to custom API integrations covering payments, booking engines, and beyond.
+      - generic [ref=e124]:
+        - heading "Latest Writing" [level=2] [ref=e125]
+        - 'link "Pixelfridge WCAG 3.0: Understanding the latest accessibility guidelines WCAG 3.0 marks a shift from rigid compliance checklists toward context-based, user-centred evaluation. Here''s what the new Bronze, Silver and Gold conformance model means in practice, and how to start preparing now. Read article →" [ref=e126] [cursor=pointer]':
+          - /url: https://www.pixelfridge.com/latest/wcag-3-accessibility-guidelines/
+          - text: Pixelfridge
+          - 'heading "WCAG 3.0: Understanding the latest accessibility guidelines" [level=3] [ref=e127]'
+          - paragraph [ref=e128]: WCAG 3.0 marks a shift from rigid compliance checklists toward context-based, user-centred evaluation. Here's what the new Bronze, Silver and Gold conformance model means in practice, and how to start preparing now.
+          - text: Read article →
+  - contentinfo [ref=e129]:
+    - generic [ref=e130]:
+      - paragraph [ref=e131]:
+        - text: Selected work by Ross Hayes. ·
+        - link "contact@rosshayes.dev" [ref=e132] [cursor=pointer]:
+          - /url: mailto:contact@rosshayes.dev
+        - text: ·
+        - link "LinkedIn" [ref=e133] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/ross-hayes-a3589988/
+      - paragraph [ref=e134]:
+        - text: Built with
+        - link "VitePress" [ref=e135] [cursor=pointer]:
+          - /url: https://vitepress.dev
+        - text: · Deployed on
+        - link "Vercel" [ref=e136] [cursor=pointer]:
+          - /url: https://vercel.com
+        - text: · WCAG 2.2 AA compliant

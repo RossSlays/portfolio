@@ -1,0 +1,40 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Course 1 of 5
+      - generic [ref=e6]: Ross
+    - generic [ref=e7]:
+      - generic [ref=e8]: ★ Double Gold & Spirit of the Year — Bartender Spirits Awards 2022
+      - heading "Lyng Norwegian Botanical Gin" [level=2] [ref=e9]
+      - generic [ref=e10]: Norway
+      - paragraph [ref=e11]: Inspired by the wild Nordic landscape, this gin highlights delicate herbal notes layered with crisp juniper and subtle floral undertones. Clean, bright, and quietly complex.
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: Tonic
+          - text: Premium Indian
+        - generic [ref=e15]:
+          - generic [ref=e16]: Garnish
+          - text: Apple Slices & Rhubarb
+    - button "🥂 Cheers!" [ref=e18] [cursor=pointer]
+    - generic [ref=e19]:
+      - heading "Rate this gin" [level=3] [ref=e20]
+      - generic [ref=e21]:
+        - button "0" [ref=e22] [cursor=pointer]
+        - button "1" [ref=e23] [cursor=pointer]
+        - button "2" [ref=e24] [cursor=pointer]
+        - button "3" [ref=e25] [cursor=pointer]
+        - button "4" [ref=e26] [cursor=pointer]
+        - button "5" [ref=e27] [cursor=pointer]
+        - button "6" [ref=e28] [cursor=pointer]
+        - button "7" [ref=e29] [cursor=pointer]
+        - button "8" [active] [ref=e30] [cursor=pointer]
+        - button "9" [ref=e31] [cursor=pointer]
+        - button "10" [ref=e32] [cursor=pointer]
+      - textbox "Tasting notes… (optional)" [ref=e33]
+      - generic [ref=e34]:
+        - paragraph [ref=e35]: How much would you pay for this G&T in a bar?
+        - generic [ref=e36]:
+          - generic: £
+          - spinbutton [ref=e37]
+      - button "Submit — 8/10" [ref=e46] [cursor=pointer]
+  - contentinfo [ref=e45]: TLDBAR · 25 Tyler Street, Greenwich

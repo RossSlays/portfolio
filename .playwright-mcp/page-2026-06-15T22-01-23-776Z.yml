@@ -1,0 +1,53 @@
+- generic [ref=e3]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#VPContent"
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Ross Hayes - Projects" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Ross Hayes - Projects
+          - generic [ref=e8]:
+            - navigation "Main Navigation" [ref=e9]:
+              - generic [ref=e10]: Main Navigation
+              - link "Home" [ref=e11] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e12]: Home
+              - link "Projects" [ref=e13] [cursor=pointer]:
+                - /url: /projects/
+                - generic [ref=e14]: Projects
+            - button "extra navigation" [ref=e16] [cursor=pointer]
+  - generic [ref=e19]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - heading "Ross Hayes Selected Projects" [level=1] [ref=e23]:
+          - generic [ref=e24]: Ross Hayes
+          - generic [ref=e25]: Selected Projects
+        - paragraph [ref=e26]: A look at challenges solved, solutions shipped, and outcomes delivered.
+        - link "View Projects" [ref=e29] [cursor=pointer]:
+          - /url: /projects/
+      - img "Ross Hayes" [ref=e33]
+    - generic [ref=e36]:
+      - link [ref=e38] [cursor=pointer]:
+        - /url: /projects/heritage-funding-directory
+        - article [ref=e39]:
+          - heading "Heritage Funding Directory" [level=2] [ref=e40]
+          - paragraph [ref=e41]: A filterable database connecting UK heritage projects with funding opportunities, built on a custom WordPress MVC architecture.
+      - link [ref=e43] [cursor=pointer]:
+        - /url: /projects/thalamos
+        - article [ref=e44]:
+          - heading "Thalamos - Pricing Calculator" [level=2] [ref=e45]
+          - paragraph [ref=e46]: Interactive React calculator for NHS departments, generating branded PDF quotes and syncing data to Zoho CRM.
+      - link [ref=e48] [cursor=pointer]:
+        - /url: /projects/wilde-lodge
+        - article [ref=e49]:
+          - heading "Wilde Lodge - Calendar System" [level=2] [ref=e50]
+          - paragraph [ref=e51]: Real-time availability calendar with custom middleware to handle Clock PMS+ API rate limits via async queuing and caching.
+      - link [ref=e53] [cursor=pointer]:
+        - /url: /projects/angostura-rums
+        - article [ref=e54]:
+          - heading "Angostura Rums" [level=2] [ref=e55]
+          - paragraph [ref=e56]: Brand-led WordPress theme with GSAP scroll animations, a custom cocktail carousel, and a modular component architecture.
+  - contentinfo [ref=e57]:
+    - paragraph [ref=e59]: Selected work by Ross Hayes.

@@ -1,0 +1,117 @@
+- generic [ref=e3]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#VPContent"
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - link "Ross Hayes - Projects" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Ross Hayes - Projects
+          - generic [ref=e8]:
+            - navigation "Main Navigation" [ref=e9]:
+              - generic [ref=e10]: Main Navigation
+              - link "Home" [ref=e11] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e12]: Home
+              - link "Projects" [ref=e13] [cursor=pointer]:
+                - /url: /projects/
+                - generic [ref=e14]: Projects
+              - link "Accessibility" [ref=e15] [cursor=pointer]:
+                - /url: /accessibility
+                - generic [ref=e16]: Accessibility
+            - button "extra navigation" [ref=e18] [cursor=pointer]
+  - complementary [ref=e20]:
+    - navigation "Sidebar Navigation" [ref=e22]:
+      - generic [ref=e23]: Sidebar Navigation
+      - generic [ref=e25]:
+        - button "Projects" [ref=e26]:
+          - heading "Projects" [level=2] [ref=e28]
+        - generic [ref=e29]:
+          - link "Heritage Funding Directory" [ref=e33] [cursor=pointer]:
+            - /url: /projects/heritage-funding-directory
+            - paragraph [ref=e34]: Heritage Funding Directory
+          - link "Thalamos - Pricing Calculator" [ref=e38] [cursor=pointer]:
+            - /url: /projects/thalamos
+            - paragraph [ref=e39]: Thalamos - Pricing Calculator
+          - link "Wilde Lodge - Calendar System" [ref=e43] [cursor=pointer]:
+            - /url: /projects/wilde-lodge
+            - paragraph [ref=e44]: Wilde Lodge - Calendar System
+          - link "Angostura Rums" [ref=e48] [cursor=pointer]:
+            - /url: /projects/angostura-rums
+            - paragraph [ref=e49]: Angostura Rums
+          - link "Clink" [ref=e53] [cursor=pointer]:
+            - /url: /projects/clink
+            - paragraph [ref=e54]: Clink
+          - link "Bank Workers Charity" [ref=e58] [cursor=pointer]:
+            - /url: /projects/bank-workers-charity
+            - paragraph [ref=e59]: Bank Workers Charity
+  - generic [ref=e64]:
+    - main [ref=e65]:
+      - generic [ref=e67]:
+        - heading "Projects Permalink to \"Projects\"" [level=1] [ref=e68]:
+          - text: Projects
+          - link "Permalink to \"Projects\"" [ref=e69] [cursor=pointer]:
+            - /url: "#projects"
+            - text: "#"
+        - paragraph [ref=e70]: A decade of building things that work, with care for accessibility, performance, and the people using them. Here's a selection of the more interesting ones, each written up with context on the challenge, the approach, and the technical decisions behind it.
+        - generic [ref=e72]:
+          - link "Heritage Funding Directory → A filterable database connecting UK heritage projects with funding opportunities, built on a custom WordPress MVC architecture. Full Build Third-party Integration" [ref=e73] [cursor=pointer]:
+            - /url: /projects/heritage-funding-directory
+            - heading "Heritage Funding Directory →" [level=2] [ref=e74]:
+              - text: Heritage Funding Directory
+              - generic [ref=e75]: →
+            - paragraph [ref=e76]: A filterable database connecting UK heritage projects with funding opportunities, built on a custom WordPress MVC architecture.
+            - generic [ref=e77]:
+              - generic [ref=e78]: Full Build
+              - generic [ref=e79]: Third-party Integration
+          - link "Thalamos - Pricing Calculator → Interactive React calculator for NHS departments, generating branded PDF quotes and syncing data to Zoho CRM. Front-End Development Third-party Integration" [ref=e80] [cursor=pointer]:
+            - /url: /projects/thalamos
+            - heading "Thalamos - Pricing Calculator →" [level=2] [ref=e81]:
+              - text: Thalamos - Pricing Calculator
+              - generic [ref=e82]: →
+            - paragraph [ref=e83]: Interactive React calculator for NHS departments, generating branded PDF quotes and syncing data to Zoho CRM.
+            - generic [ref=e84]:
+              - generic [ref=e85]: Front-End Development
+              - generic [ref=e86]: Third-party Integration
+          - link "Wilde Lodge - Calendar System → Real-time availability calendar with custom middleware to handle Clock PMS+ API rate limits via async queuing and caching. Full Build Third-party Integration" [ref=e87] [cursor=pointer]:
+            - /url: /projects/wilde-lodge
+            - heading "Wilde Lodge - Calendar System →" [level=2] [ref=e88]:
+              - text: Wilde Lodge - Calendar System
+              - generic [ref=e89]: →
+            - paragraph [ref=e90]: Real-time availability calendar with custom middleware to handle Clock PMS+ API rate limits via async queuing and caching.
+            - generic [ref=e91]:
+              - generic [ref=e92]: Full Build
+              - generic [ref=e93]: Third-party Integration
+          - link "Angostura Rums → Brand-led WordPress theme with GSAP scroll animations, a custom cocktail carousel, and a modular component architecture. Full Build Front-End Development" [ref=e94] [cursor=pointer]:
+            - /url: /projects/angostura-rums
+            - heading "Angostura Rums →" [level=2] [ref=e95]:
+              - text: Angostura Rums
+              - generic [ref=e96]: →
+            - paragraph [ref=e97]: Brand-led WordPress theme with GSAP scroll animations, a custom cocktail carousel, and a modular component architecture.
+            - generic [ref=e98]:
+              - generic [ref=e99]: Full Build
+              - generic [ref=e100]: Front-End Development
+          - link "Clink → A real-time multiplayer gin tasting app with live scoring, botanical quizzes, an ABV guessing game, and a TV display mode. Built for fun, runs on a local network. Full Build" [ref=e101] [cursor=pointer]:
+            - /url: /projects/clink
+            - heading "Clink →" [level=2] [ref=e102]:
+              - text: Clink
+              - generic [ref=e103]: →
+            - paragraph [ref=e104]: A real-time multiplayer gin tasting app with live scoring, botanical quizzes, an ABV guessing game, and a TV display mode. Built for fun, runs on a local network.
+            - generic [ref=e106]: Full Build
+          - link "Bank Workers Charity → A donation widget and JavaScript-driven flow connecting a preset-amount CTA to a Gravity Forms and Stripe-powered donation form, with full editor control over amounts, imagery, and copy. Front-End Development Third-party Integration" [ref=e107] [cursor=pointer]:
+            - /url: /projects/bank-workers-charity
+            - heading "Bank Workers Charity →" [level=2] [ref=e108]:
+              - text: Bank Workers Charity
+              - generic [ref=e109]: →
+            - paragraph [ref=e110]: A donation widget and JavaScript-driven flow connecting a preset-amount CTA to a Gravity Forms and Stripe-powered donation form, with full editor control over amounts, imagery, and copy.
+            - generic [ref=e111]:
+              - generic [ref=e112]: Front-End Development
+              - generic [ref=e113]: Third-party Integration
+    - contentinfo [ref=e114]:
+      - navigation "Pager" [ref=e115]:
+        - generic [ref=e116]: Pager
+        - link "Next page Heritage Funding Directory" [ref=e119] [cursor=pointer]:
+          - /url: /projects/heritage-funding-directory
+          - generic [ref=e120]: Next page
+          - generic [ref=e121]: Heritage Funding Directory
