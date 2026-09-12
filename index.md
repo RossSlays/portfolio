@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Ross Hayes"
   text: "Developing, Leading and Explaining"
-  tagline: I've been building for the web since 2015. I combine bespoke code, an obsession with accessibility, and a talent for turning technical complexity into plain English to build digital experiences that feel personal and function flawlessly.
+  tagline: I've been building for the web since 2015 — now leading a digital department into emerging technology. I combine bespoke code, an obsession with accessibility, and a talent for turning technical complexity into plain English to build digital experiences that feel personal and function flawlessly.
   image:
     src: /photo.webp
     alt: Ross Hayes
