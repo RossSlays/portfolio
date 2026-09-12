@@ -44,7 +44,7 @@ hero:
 
 <div class="timeline">
   <h2 class="tech-stack-heading">Career</h2>
-  <p class="timeline-summary">A decade in agencies. Four roles. One consistent thread: building things that work for everyone, and making sure everyone understands them too.</p>
+  <p class="timeline-summary">A decade in agencies. Five roles. One consistent thread: building things that work for everyone, and making sure everyone understands them too.</p>
   <div class="timeline-items">
     <div class="timeline-item">
       <div class="timeline-year">2015</div>
@@ -76,6 +76,14 @@ hero:
         <div class="timeline-role">Pixelfridge, Southwark, London</div>
         <a class="timeline-link" href="https://www.pixelfridge.com/" target="_blank" rel="noopener noreferrer">pixelfridge.com</a>
         <p>Building pixel-perfect sites for charities and purpose-driven organisations on a Laravel-based WordPress foundation. Work spans everything from full site builds and ongoing maintenance to custom API integrations covering payments, booking engines, and beyond.</p>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year">2026</div>
+      <div class="timeline-content">
+        <div class="timeline-role">Crown Creative, Belfast</div>
+        <a class="timeline-link" href="https://crowncreative.com/" target="_blank" rel="noopener noreferrer">crowncreative.com</a>
+        <p>Joined as Senior Web Developer to lead the digital department, with a mandate to spearhead the studio's move into emerging technologies and deliver cutting-edge digital solutions for hospitality clients.</p>
       </div>
     </div>
   </div>
