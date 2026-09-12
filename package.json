@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "deploy": "vercel --prod"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@vercel/analytics": "^2.0.1",
+    "vercel": "^59.16.0",
     "vitepress": "^1.6.4"
   }
 }
